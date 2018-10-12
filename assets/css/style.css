@@ -14,7 +14,9 @@ header {
     background-color: #ffffff;
     height: 80px;
 }
-
+.nametitle {
+    color: #fff;
+}
 .container {
     width: 960px;
     margin: auto;

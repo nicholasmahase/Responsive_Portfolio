@@ -102,6 +102,9 @@ img {
     width: 100%;
     padding: 10px;
 }
+textarea {
+    width: 100%;
+}
 
 .textcomments {
     width: 100%;
@@ -170,6 +173,9 @@ footer {
     }
 
     .container {
+        width: 100%;
+    }
+    textarea {
         width: 100%;
     }
 
@@ -328,4 +334,7 @@ footer {
         font-size: 24px;
     }
     li { float: none;}
+    textarea {
+        width: 100%;
+    }
 }
